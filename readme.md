@@ -73,8 +73,4 @@
 <a href="mailto:cristiangramajo015@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-<a href="tg://user?id=1484269280" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/Telegram-AFDAE7?style=flat&logo=Telegram&logoColor=white"/>
-</a>
-
 </p>
