@@ -66,7 +66,15 @@
 ### 📞 &nbsp;Contacto
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-ismael-gramajo-760534165/" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cristiangramajo015@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="tg://user&ZeroWidthSpace;?id=1484269280" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Telegram-AFDAE7?style=flat&logo=Telegram&logoColor=white"/>
+</a>
+
+</p>
