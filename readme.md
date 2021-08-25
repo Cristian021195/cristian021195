@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/cristian021195/cristian021195/master/assets/portada-gihtub.svg)
+![Cristian Gramajo - Portada Github](https://raw.githubusercontent.com/Cristian021195/cristian021195/272af6664579f13ca476109992bcb7dc733a9aab/portada-github.svg)
 
 ### Acerca de mi
 
