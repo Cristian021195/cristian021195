@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2880" height="1200" viewBox="0 0 2880 1200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="1247" height="1200" transform="translate(0.413 0.439)"/>
+    </clipPath>
+    <filter id="Trazado_1" x="2608.509" y="826.563" width="420.236" height="729.594" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_2" x="2237.34" y="958.489" width="364.016" height="492.131" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_3" x="3036.748" y="958.492" width="364.016" height="492.128" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="1200" height="1200"/>
+    </clipPath>
+    <filter id="Trazado_1-2" x="-142.115" y="227.158" width="405.222" height="729.052" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_2-2" x="-499.004" y="358.982" width="351.166" height="491.773" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_3-2" x="269.649" y="358.984" width="351.166" height="491.771" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_1-3" x="399.906" y="-8.274" width="2489.094" height="793.54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_1" x="400" y="363" width="422" height="422" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_2" x="1004" y="767" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_3" x="1330" y="767" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_4" x="1656" y="767" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_5" x="1982" y="767" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_1-4" x="1074.234" y="815.563" width="84.56" height="127.812" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_2-3" x="1022.34" y="834.008" width="76.7" height="94.612" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_3-3" x="1134.107" y="834.008" width="76.7" height="94.612" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Mesa_de_trabajo_1">
+      <rect width="2880" height="1200"/>
+    </clipPath>
+  </defs>
+  <g id="Mesa_de_trabajo_1" data-name="Mesa de trabajo – 1" clip-path="url(#clip-Mesa_de_trabajo_1)">
+    <rect width="2880" height="1200" fill="#f9f9f9"/>
+    <g id="dev-icon" transform="translate(2192.587 599.561)" opacity="0.33" clip-path="url(#clip-path)">
+      <ellipse id="Elipse_1-2" data-name="Elipse 1" cx="623.5" cy="600" rx="623.5" ry="600" transform="translate(0.413 0.439)" fill="#ff5965"/>
+      <g transform="matrix(1, 0, 0, 1, -2192.59, -599.56)" filter="url(#Trazado_1)">
+        <path id="Trazado_1-5" data-name="Trazado 1" d="M21.185,673.294,375.5,38.195,288.392-26.3-14.74,636.86l35.925,36.434" transform="translate(2635.25 862.86)" fill="#f5f5f5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2192.59, -599.56)" filter="url(#Trazado_2)">
+        <path id="Trazado_2-4" data-name="Trazado 2" d="M196.945,322.083V190.492L9.355,92.209,196.875-6.368l.11-133.68L-136.993,36.032l-.039,110.117L196.945,322.083" transform="translate(2386.37 1108.54)" fill="#f5f5f5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2192.59, -599.56)" filter="url(#Trazado_3)">
+        <path id="Trazado_3-4" data-name="Trazado 3" d="M-136.993,322.081V190.491L50.6,92.21-136.922-6.367l-.11-133.68L196.945,36.031l.039,110.117L-136.993,322.081" transform="translate(3185.78 1108.54)" fill="#f5f5f5"/>
+      </g>
+    </g>
+    <g id="dev-icon-2" data-name="dev-icon" transform="translate(-542)" opacity="0.19" clip-path="url(#clip-path-2)">
+      <circle id="Elipse_1-3" data-name="Elipse 1" cx="600" cy="600" r="600" fill="#ff5965"/>
+      <g transform="matrix(1, 0, 0, 1, 542, 0)" filter="url(#Trazado_1-2)">
+        <path id="Trazado_1-6" data-name="Trazado 1" d="M19.8,672.752,360.482,38.145,276.729-26.3-14.74,636.347,19.8,672.752" transform="translate(-115.37 263.46)" fill="#f5f5f5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 542, 0)" filter="url(#Trazado_2-2)">
+        <path id="Trazado_2-5" data-name="Trazado 2" d="M184.1,321.725V190.236L3.723,92.029l180.305-98.5.105-133.577L-136.994,35.9l-.038,110.032L184.1,321.725" transform="translate(-349.97 509.03)" fill="#f5f5f5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 542, 0)" filter="url(#Trazado_3-2)">
+        <path id="Trazado_3-5" data-name="Trazado 3" d="M-136.995,321.724V190.235L43.379,92.03-136.927-6.47l-.105-133.577L184.1,35.895l.038,110.032-321.128,175.8" transform="translate(418.68 509.03)" fill="#f5f5f5"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_1-3)">
+      <path id="Trazado_1-7" data-name="Trazado 1" d="M2247,683.267C1909.129,639.327,1791.126,500,1774.423,437.2s-76.186-206.518-247.33-296.595-396.51-77.351-437.245-63.713-526.129,116.99-854.614,74.7S-224.094-92.274-224.094-92.274H2247Z" transform="translate(633 90)" fill="#bce3e4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_1)">
+      <circle id="Elipse_1-4" data-name="Elipse 1" cx="202" cy="202" r="202" transform="translate(409 369)" fill="#bce3e4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_2)">
+      <circle id="Elipse_2-2" data-name="Elipse 2" cx="101" cy="101" r="101" transform="translate(1013 773)" fill="#bce3e4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_3)">
+      <circle id="Elipse_3-2" data-name="Elipse 3" cx="101" cy="101" r="101" transform="translate(1339 773)" fill="#bce3e4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_4)">
+      <circle id="Elipse_4-2" data-name="Elipse 4" cx="101" cy="101" r="101" transform="translate(1665 773)" fill="#bce3e4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_5)">
+      <circle id="Elipse_5-2" data-name="Elipse 5" cx="101" cy="101" r="101" transform="translate(1991 773)" fill="#bce3e4"/>
+    </g>
+    <text id="CRISTIAN_ISMAEL_GRAMAJO" data-name="CRISTIAN ISMAEL GRAMAJO" transform="translate(679 621)" fill="#707070" font-size="120" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CRISTIAN ISMAEL GRAMAJO</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_1-4)">
+      <path id="Trazado_1-8" data-name="Trazado 1" d="M-9.717,71.512,39.82-17.283,27.642-26.3-14.74,66.418l5.023,5.094" transform="translate(1100.97 851.86)" fill="#f5f5f5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_2-3)">
+      <path id="Trazado_2-6" data-name="Trazado 2" d="M-90.338-75.436v-18.4l-26.228-13.741,26.218-13.782.015-18.69-46.694,24.618-.005,15.4,46.694,24.6" transform="translate(1171.37 984.06)" fill="#f5f5f5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_3-3)">
+      <path id="Trazado_3-6" data-name="Trazado 3" d="M-137.027-75.436v-18.4l26.228-13.741-26.218-13.782-.015-18.69,46.694,24.618.005,15.4-46.694,24.6" transform="translate(1283.14 984.06)" fill="#f5f5f5"/>
+    </g>
+    <g id="world" transform="translate(1363 796.849)">
+      <path id="Trazado_2-7" data-name="Trazado 2" d="M0,167.538H31.954A153.71,153.71,0,0,1,35.93,136H9.348A76.581,76.581,0,0,0,0,167.538Z" transform="translate(0 -95.151)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_3-7" data-name="Trazado 3" d="M31.954,271H0a76.581,76.581,0,0,0,9.348,31.538H35.93A153.708,153.708,0,0,1,31.954,271Z" transform="translate(0 -189.602)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_4" data-name="Trazado 4" d="M167.8,167.538V136H140.656a143.822,143.822,0,0,0-4.286,31.538Z" transform="translate(-95.41 -95.151)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_5" data-name="Trazado 5" d="M184.228,31.838V0c-9.866,2.756-18.605,15.361-24.373,31.838Z" transform="translate(-111.841)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_6" data-name="Trazado 6" d="M184.228,437.838V406H159.855C165.623,422.477,174.362,435.083,184.228,437.838Z" transform="translate(-111.841 -284.053)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_7" data-name="Trazado 7" d="M271,0V31.838h24.373C289.605,15.361,280.866,2.756,271,0Z" transform="translate(-189.602)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_8" data-name="Trazado 8" d="M302.427,167.538A143.844,143.844,0,0,0,298.141,136H271v31.538Z" transform="translate(-189.602 -95.151)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_9" data-name="Trazado 9" d="M167.8,271H136.37a143.836,143.836,0,0,0,4.286,31.538H167.8Z" transform="translate(-95.41 -189.602)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_10" data-name="Trazado 10" d="M350.475,39.355h23.353C364.5,26.6,351.373,15.82,336.077,10.743,341.955,17.683,346.872,28.118,350.475,39.355Z" transform="translate(-235.132 -7.516)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_11" data-name="Trazado 11" d="M73.592,406H50.239c9.326,12.757,22.455,23.535,37.751,28.612C82.111,427.672,77.195,417.237,73.592,406Z" transform="translate(-35.149 -284.053)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_12" data-name="Trazado 12" d="M73.592,39.355c3.6-11.237,8.519-21.672,14.4-28.612C72.694,15.82,59.565,26.6,50.239,39.355Z" transform="translate(-35.149 -7.516)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_13" data-name="Trazado 13" d="M350.475,406c-3.6,11.236-8.519,21.672-14.4,28.612,15.3-5.077,28.424-15.854,37.751-28.612Z" transform="translate(-235.133 -284.053)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_14" data-name="Trazado 14" d="M271,271v31.538h27.141A143.822,143.822,0,0,0,302.427,271Z" transform="translate(-189.602 -189.602)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_15" data-name="Trazado 15" d="M392.379,136a153.725,153.725,0,0,1,3.975,31.538h31.954A76.58,76.58,0,0,0,418.96,136Z" transform="translate(-274.523 -95.151)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_16" data-name="Trazado 16" d="M271,406v31.838c9.866-2.755,18.605-15.361,24.373-31.838Z" transform="translate(-189.602 -284.053)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_17" data-name="Trazado 17" d="M428.309,271H396.354a153.705,153.705,0,0,1-3.975,31.538h26.582A76.585,76.585,0,0,0,428.309,271Z" transform="translate(-274.523 -189.602)" fill="#f5f5f5" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="stats" transform="translate(1694.659 904.652)">
+      <path id="Trazado_18" data-name="Trazado 18" d="M133.9,123.767a7.507,7.507,0,0,1-7.58,7.426H7.581A7.507,7.507,0,0,1,0,123.767V7.426A7.507,7.507,0,0,1,7.581,0a7.507,7.507,0,0,1,7.58,7.426V116.341H126.324A7.5,7.5,0,0,1,133.9,123.767ZM25.165,104.653a3.851,3.851,0,0,0,5.219-1.214L52.835,67.91l14.371,10.56a3.815,3.815,0,0,0,3.259.616,3.755,3.755,0,0,0,2.5-2.135L83.487,52.527l17.35,7.211a3.825,3.825,0,0,0,4.4-1.066l18.555-22.2v9.951a3.791,3.791,0,0,0,7.58,0v-19.8a3.751,3.751,0,0,0-3.79-3.713H107.374a3.714,3.714,0,1,0,0,7.426h11.764L101.2,51.818,82.964,44.24a3.87,3.87,0,0,0-2.911-.022,3.8,3.8,0,0,0-2.073,2L67.873,69.681,54.067,59.537a3.865,3.865,0,0,0-2.983-.679,3.788,3.788,0,0,0-2.516,1.693L23.934,99.536A3.676,3.676,0,0,0,25.165,104.653Z" transform="translate(4 -96)" fill="#f1f1f1" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="monitor" transform="translate(2021 785)">
+      <path id="Trazado_19" data-name="Trazado 19" d="M134.257,25H8.356A8.366,8.366,0,0,0,0,33.356v83.005a8.366,8.366,0,0,0,8.356,8.356h125.9a8.366,8.366,0,0,0,8.356-8.356V33.356A8.366,8.366,0,0,0,134.257,25Z" transform="translate(0 0)" fill="#f8f8f8" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_20" data-name="Trazado 20" d="M174.311,425.256H151.75V413H107.74v12.256H85.178a4.178,4.178,0,1,0,0,8.356h89.133a4.178,4.178,0,1,0,0-8.356Z" transform="translate(-58.438 -279.926)" fill="#f8f8f8" stroke="#707070" stroke-width="1"/>
+    </g>
+    <text id="Desarrollador_Web" data-name="Desarrollador Web" transform="translate(454 1104)" fill="#707070" font-size="72" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Desarrollador Web</tspan></text>
+    <text id="GitHub_Profile" data-name="GitHub Profile" transform="translate(2369 122)" fill="#707070" font-size="72" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GitHub Profile</tspan></text>
+  </g>
+</svg>
