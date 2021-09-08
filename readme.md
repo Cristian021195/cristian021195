@@ -6,7 +6,8 @@
 🎓 &nbsp;Actualmente estudio en la Universidad Nacional de Tucumán.\
 ✍️ &nbsp;En mi tiempo libre me gusta leer lo nuevo del mundo web, salir a correr, pasarla bien.\
 ✉️ &nbsp;De todas formas puedes enviarme un mail a cristiangramajo015@gmail.com Respondere a la brevedad.\
-📄 &nbsp;Si queres saber mas de mi mirá mi [Portfolio](https://cristian021195.github.io/portfolio/) para mas detalles.
+📄 &nbsp;Si queres saber mas de mi mirá mi <a href="https://cristian021195.github.io/portfolio/" target="_blank">Portfolio</a> para mas detalles.
+
 
 <hr>
 
