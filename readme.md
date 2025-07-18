@@ -1,5 +1,3 @@
-![Cristian Gramajo - Portada Github](https://raw.githubusercontent.com/Cristian021195/cristian021195/272af6664579f13ca476109992bcb7dc733a9aab/portada-github.svg)
-
 ### Acerca de mi
 
 💡 &nbsp;Me gusta mucho el mundo del desarrollo web, tanto backend como frontend.\
